@@ -56,7 +56,6 @@ bank-analyzer-ui/
 ### Backend (`/src`)
 ```
 src/
-├── __pycache__/
 ├── analysis_pipeline.py
 ├── api.py
 ├── app.py
